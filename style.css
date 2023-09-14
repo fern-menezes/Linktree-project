@@ -34,6 +34,7 @@ body{
     background: var(--bg-url) no-repeat top center/ cover;
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
+    height: 100vh;
     
 }
 #container{
@@ -154,3 +155,12 @@ footer a{
     color: color var(--text-color);
 }
 
+/*media queries*/
+@media(min-width:700px){
+    :root{
+        --bg-url: var(./assets/bg-desktop.png);
+    }
+    .light{
+        --bg-url: var(./assets/bg-desktop-light.png);
+    }
+}
