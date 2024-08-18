@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Projeto de uma linktree, do módulo Discover, na plataforma da Rocketseat <br/>
 </p>
 
 <p align="center">
@@ -35,5 +35,4 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Fernanda
